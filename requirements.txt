@@ -1,2 +1,2 @@
-sciket-learn
+scikit-learn
 numpy
